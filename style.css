@@ -1,0 +1,5 @@
+html, body { height: 100%; }
+body { margin: 0; overflow-y: auto; }
+canvas { position: fixed; inset: 0; display: block; }
+body::-webkit-scrollbar { display: none; }
+body { scrollbar-width: none; }
